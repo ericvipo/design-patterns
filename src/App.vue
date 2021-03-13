@@ -7,13 +7,11 @@
 </template>
 
 <script>
-// import HelloWorld from "./components/HelloWorld.vue";
 import NullObject from "@/views/NullObject";
 
 export default {
   name: "App",
   components: {
-    // HelloWorld
     NullObject
   }
 };
